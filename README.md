@@ -57,8 +57,6 @@ Laravel, CodeIgniter, Yii) and JavaScript(VueJs, ReactJs, NodeJs)</h2>
 
 - 📫 How to reach me ✉️ *usmanasghar27@gmail.com* and ☎️ *92307-84-34-574*
 
-- ⚡ Fun fact *React did not have a compiler until v19*
-
 ###
 
 <div align="center">
@@ -68,6 +66,9 @@ Laravel, CodeIgniter, Yii) and JavaScript(VueJs, ReactJs, NodeJs)</h2>
 
 ### My Other Profile
 
+<div align="center">
+  <a href="https://github.com/usmasa"><img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=24292e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=usmasa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="languages graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmasa&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  />
