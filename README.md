@@ -1,6 +1,6 @@
 <div align='center'>
   <div>
-  
+
 <img  height="200" src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952h8s5sosfugb2tqk7oq3wsiwc3fezgg43rppww7qt&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdtaThwcXdhOW5odGI4cTNyMWhtMzdxN3lrc3NnOXRxeGhuYjVtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif"  height="200"/>
   </div>
@@ -12,11 +12,13 @@
 </div>
 </div>
 
-<h2 align="left">Hi 👋! My name is Usman and I'm a 🚀 Full-stack enthusiast crafting immersive web experiences with PHP(Laravel, CodeIgniter, Yii) and JavaScript(VueJs, ReactJs, NodeJs)</h2>
+<h2 align="left">Hi 👋! My name is Usman and I'm a 🚀 Full-stack enthusiast crafting immersive web experiences with PHP(
+Laravel, CodeIgniter, Yii) and JavaScript(VueJs, ReactJs, NodeJs)</h2>
 
 ## 🛠️ My Skills
 
 ### Laravel
+
 - **Scalable Web Applications:** Proficient in building scalable and secure web applications.
 - **Eloquent ORM:** Expertise in database management and manipulation using Eloquent.
 - **Blade Templating Engine:** Skilled in creating dynamic and reusable templates.
@@ -25,6 +27,7 @@
 - **WebSockets:** Proficient in implementing real-time features using WebSockets (e.g., Laravel Echo, Pusher).
 
 ### Vue.js
+
 - **Dynamic User Interfaces:** Proficient in building interactive and user-friendly interfaces.
 - **Component-Based Architecture:** Experienced in creating modular and maintainable components.
 - **State Management:** Strong understanding of Vuex for efficient state management.
@@ -32,14 +35,15 @@
 - **GraphQL Integration:** Skilled in using Apollo Client for managing GraphQL data in Vue.js applications.
 - **WebSockets:** Experienced in implementing real-time updates and features using WebSockets (e.g., Socket.io).
 
-
 ### Node.js
+
 - **Backend Development:** Skilled in building scalable server-side applications.
 - **Express.js Framework:** Proficient in using Express.js for fast and efficient web server development.
 - **RESTful APIs:** Experienced in designing and implementing RESTful APIs.
 - **Asynchronous Programming:** Strong understanding of non-blocking I/O and event-driven architecture.
 
 ### React.js
+
 - **Modern User Interfaces:** Proficient in building modern, dynamic, and responsive UIs.
 - **Component-Based Architecture:** Skilled in creating reusable and maintainable components.
 - **State Management:** Experienced with Redux for efficient state management.
@@ -62,15 +66,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usmanasghar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-</div>
+### My Other Profile
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usmasa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmasa&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
 ###
 
 <div align="left">
   <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.larave.com" target="_blank" rel="noreferrer"> <img src="https://github.com/laravel/art/blob/master/legacy/Laravel-l-slant.svg" alt="laravel" width="40" height="40"/> </a>
+  <a href="https://www.laravel.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg"" alt="laravel" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 </div>
