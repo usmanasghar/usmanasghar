@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Usman and I'm a 🚀 Full-stack enthusiast crafting immersive web experiences with JavaScript(VueJs, ReactJs, NodeJs) and PHP(Laravel, CodeIgniter, Yii)</h2>
+<h2 align="left">Hi 👋! My name is Usman and I'm a 🚀 Full-stack enthusiast crafting immersive web experiences with PHP(Laravel, CodeIgniter, Yii) and JavaScript(VueJs, ReactJs, NodeJs)</h2>
 
 ## 🛠️ My Skills
 
