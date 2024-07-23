@@ -1,14 +1,15 @@
-<h2 align="left">Hi 👋! My name is Hassan and I'm a 🚀 Full-stack enthusiast crafting immersive web experiences with JavaScript</h2>
+<h2 align="left">Hi 👋! My name is Usman and I'm a 🚀 Full-stack enthusiast crafting immersive web experiences with JavaScript(VueJs, ReactJs, NodeJs) and PHP(Laravel, CodeIgniter, Yii)</h2>
 
 ###
 
-- 🌱 I’m currently learning *threejs*
+- 🌱 I’m currently learning *web3*
 
-- 💬 Ask me about *React , Nest*
+- 💬 Ask me about *Laravel, VueJs, ReactJs, NodeJs*
 
-- 📫 How to reach me *hassanshahzadu@gmail.com*
+- 📫 How to reach me ✉️ *usmanasghar27@gmail.com* and ☎️ *92307-84-34-574*
+- 
 
-- ⚡ Fun fact *React did'nt have a compiler until v19*
+- ⚡ Fun fact *React did not have a compiler until v19*
 
 ###
 
