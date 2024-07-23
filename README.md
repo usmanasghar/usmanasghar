@@ -1,5 +1,19 @@
 <h2 align="left">Hi 👋! My name is Usman and I'm a 🚀 Full-stack enthusiast crafting immersive web experiences with JavaScript(VueJs, ReactJs, NodeJs) and PHP(Laravel, CodeIgniter, Yii)</h2>
 
+## 🛠️ My Skills
+
+### Laravel
+- **Scalable Web Applications:** Proficient in building scalable and secure web applications.
+- **Eloquent ORM:** Expertise in database management and manipulation using Eloquent.
+- **Blade Templating Engine:** Skilled in creating dynamic and reusable templates.
+- **Built-in Authentication:** Strong background in implementing secure authentication systems.
+
+### Vue.js
+- **Dynamic User Interfaces:** Proficient in building interactive and user-friendly interfaces.
+- **Component-Based Architecture:** Experienced in creating modular and maintainable components.
+- **State Management:** Strong understanding of Vuex and Pinia for efficient state management.
+- **Vue Router:** Expertise in implementing seamless navigation and routing.
+
 ###
 
 - 🌱 I’m currently learning *web3*
@@ -7,15 +21,14 @@
 - 💬 Ask me about *Laravel, VueJs, ReactJs, NodeJs*
 
 - 📫 How to reach me ✉️ *usmanasghar27@gmail.com* and ☎️ *92307-84-34-574*
-- 
 
 - ⚡ Fun fact *React did not have a compiler until v19*
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanshahzadse&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanshahzadse&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=usmanasghar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usmanasghar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
