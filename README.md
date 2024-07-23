@@ -1,3 +1,7 @@
+<div align='center'>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdtaThwcXdhOW5odGI4cTNyMWhtMzdxN3lrc3NnOXRxeGhuYjVtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height="200"/>
+</div>
+
 <h2 align="left">Hi 👋! My name is Usman and I'm a 🚀 Full-stack enthusiast crafting immersive web experiences with PHP(Laravel, CodeIgniter, Yii) and JavaScript(VueJs, ReactJs, NodeJs)</h2>
 
 ## 🛠️ My Skills
