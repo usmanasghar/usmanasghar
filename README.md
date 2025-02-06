@@ -22,13 +22,13 @@
   <div>
 
 <img  height="200" src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952h8s5sosfugb2tqk7oq3wsiwc3fezgg43rppww7qt&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdtaThwcXdhOW5odGI4cTNyMWhtMzdxN3lrc3NnOXRxeGhuYjVtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif"  height="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdtaThwcXdhOW5odGI4cTNyMWhtMzdxN3lrc3NnOXRxeGhuYjVtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Senior software engineer" height="200"/>
   </div>
 
 <div align="center">
-  <a href="mailto:usmanasghar27@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-   <a href="https://www.fiverr.com/usmanasghar"><img src="https://img.shields.io/static/v1?message=Fiverr&logo=fiverr&label=&color=00b22d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="fiverr logo"  /></a>
-  <a href="https://www.linkedin.com/in/usman-asghar-305810b6"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="mailto:usmanasghar27@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Full stack developer email"  /></a>
+   <a href="https://www.fiverr.com/usmanasghar"><img src="https://img.shields.io/static/v1?message=Fiverr&logo=fiverr&label=&color=00b22d&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Full stack developer on fiverr"  /></a>
+  <a href="https://www.linkedin.com/in/usman-asghar-305810b6"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Full stack developer on linkedin"  /></a>
 </div>
 </div>
 
