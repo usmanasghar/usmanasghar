@@ -18,27 +18,7 @@
     <link rel="icon" href="favicon.ico" type="image/x-icon">
 
     <!-- Structured Data JSON-LD -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Person",
-        "name": "Usman Asghar",
-        "jobTitle": "Full Stack Developer",
-        "url": "https://www.yourwebsite.com",
-        "sameAs": [
-            "https://www.linkedin.com/in/usman-asghar-305810b6",
-            "https://github.com/usmasa",
-            "https://www.fiverr.com/usmanasghar"
-        ],
-        "image": "https://yourwebsite.com/path-to-your-image.jpg",
-        "description": "Usman Asghar is a senior full-stack developer with expertise in PHP, Laravel, Vue.js, React.js, Node.js, and more.",
-        "contactPoint": {
-            "@type": "ContactPoint",
-            "telephone": "+92307-84-34-574",
-            "contactType": "Customer Service"
-        }
-    }
-    </script>
+   
 </head>
 <body>
 
