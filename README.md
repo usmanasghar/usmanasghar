@@ -7,16 +7,13 @@
     <meta name="author" content="Usman Asghar">
     <meta property="og:title" content="Usman Asghar - Full Stack Developer Portfolio">
     <meta property="og:description" content="Explore the portfolio of Usman Asghar, a senior full-stack developer with over 6 years of experience in building scalable and interactive web applications.">
-    <meta property="og:image" content="https://yourwebsite.com/og-image.jpg">
-    <meta property="og:url" content="https://yourwebsite.com">
+    <meta property="og:image" content="https://media.licdn.com/dms/image/v2/D5603AQHTQZLMSMMgAg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1732674791786?e=1744243200&v=beta&t=N-gR36yx1ybYrAtE06y3bTAgZYVx2MmbQBk2l17MX0k">
+    <meta property="og:url" content="https://www.linkedin.com/in/usman-asghar-305810b6">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Usman Asghar - Full Stack Developer Portfolio">
     <meta name="twitter:description" content="Explore the portfolio of Usman Asghar, a senior full-stack developer with over 6 years of experience in building scalable and interactive web applications.">
-    <meta name="twitter:image" content="https://yourwebsite.com/og-image.jpg">
-    <title>Usman Asghar - Full Stack Developer | Portfolio</title>
+    <meta name="twitter:image" content="https://media.licdn.com/dms/image/v2/D5603AQHTQZLMSMMgAg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1732674791786?e=1744243200&v=beta&t=N-gR36yx1ybYrAtE06y3bTAgZYVx2MmbQBk2l17MX0k">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
-
-    <!-- Structured Data JSON-LD -->
    
 </head>
 <body>
