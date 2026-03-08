@@ -11,7 +11,7 @@
     <meta property="og:url" content="https://www.linkedin.com/in/usman-asghar-305810b6">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Usman Asghar - Full Stack Developer Portfolio">
-    <meta name="twitter:description" content="Explore the portfolio of Usman Asghar, a senior full-stack developer with over 6 years of experience in building scalable and interactive web applications.">
+    <meta name="twitter:description" content="Explore the portfolio of Usman Asghar, a senior full-stack developer with over 8 years of experience in building scalable and interactive web applications.">
     <meta name="twitter:image" content="https://media.licdn.com/dms/image/v2/D5603AQHTQZLMSMMgAg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1732674791786?e=1744243200&v=beta&t=N-gR36yx1ybYrAtE06y3bTAgZYVx2MmbQBk2l17MX0k">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
    
